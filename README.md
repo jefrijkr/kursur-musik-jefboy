@@ -50,5 +50,6 @@ Aplikasi ini adalah sistem manajemen kursus musik berbasis web yang menyediakan 
 
 
 ## ini juga sudah di hosting
-## akses juga bisa melalui link dibawah ini :
+## akses juga bisa melalui link dibawah ini : (username : jef / password : 123456)
         https://jefboycourse.jagoankode.my.id/
+        
