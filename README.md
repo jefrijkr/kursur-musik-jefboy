@@ -51,6 +51,4 @@ Aplikasi ini adalah sistem manajemen kursus musik berbasis web yang menyediakan 
 
 ## ini juga sudah di hosting
 ## akses juga bisa melalui link dibawah ini :
-
-        vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
         https://jefboycourse.jagoankode.my.id/
